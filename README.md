@@ -1,50 +1,89 @@
-# Welcome to your Expo app 👋
+# React Native Portofolio
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Table of Contents
 
-## Get started
+- [React Native Portofolio](#react-native-portofolio)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+    - [Home:](#home)
+    - [About:](#about)
+    - [Projects:](#projects)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running The App](#running-the-app)
+  - [Affiliate Programs / Partnership](#affiliate-programs--partnership)
+  - [Contact](#contact)
+  - [Copyright](#copyright)
 
-1. Install dependencies
+## Introduction
 
-   ```bash
-   npm install
+Welcome to the Expo React Native Portofolio App! This project is a project build portofolio page. It is built using Expo, a framework and platform for universal React applications.
+
+## Features
+
+### Home:
+![Feature Home](/assets//images/app//home.jpeg)
+Description: This feature user can see the profile and technologie i use.
+
+### About:
+![Feature About](/assets//images/app//about.jpeg)
+Description: This feature show about the me.
+
+### Projects:
+![Feature 3 Image](/assets//images/app//projects.jpeg)
+Description: With this feature, users can [describe what the feature does].
+
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- You have installed [Node.js](https://nodejs.org/) (which includes npm) or [Yarn](https://yarnpkg.com/).
+- You have a working installation of [Git](https://git-scm.com/).
+- You have installed the Expo CLI: `npm install -g expo-cli`.
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/rinaldycodes/react-native-portofolio.git
+   cd react-native-portofolio
    ```
 
-2. Start the app
+## Running The App
 
-   ```bash
-    npx expo start
+To get running with the project, follow these steps:
+
+   ```sh
+   npx expo start -c
    ```
 
-In the output, you'll find options to open the app in a
+Open using android device usb / simulator
+   ```sh
+   press a on the keyboard
+   ```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Open using browser / web 
+   ```sh
+   press w on the keyboard
+   ```
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Affiliate Programs / Partnership
 
-## Get a fresh project
+- [Developer Setup](https://mycollection.shop/rinaldy.dev)
 
-When you're ready, run:
+## Contact
 
-```bash
-npm run reset-project
-```
+For inquiries or to hire me for your projects, you can reach out to me via:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- **Email**: bangrinaldy.tech@gmail.com
+- **GitHub**: [Rinaldy](https://github.com/rinaldycodes)
+- **Instagram**: [Rinaldy Dev](https://instagram.com/rinaldy.dev) send me DM's
+- **Tiktok**: [Rinaldy Dev](https://www.tiktok.com/@rinaldy.dev) send me DM's
 
-## Learn more
+## Copyright
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+© 2024 RinaldyDev. All rights reserved.

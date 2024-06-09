@@ -25,6 +25,11 @@ export default function MyDrawerCustom() {
         onPress={() => { router.push('/about') }} 
         isActive={firstSegment === 'about' ? 1 : 0} 
       />
+      <MyDrawerItem 
+        label={'Projects'} 
+        onPress={() => { router.push('/projects') }} 
+        isActive={firstSegment === 'projects' ? 1 : 0} 
+      />
     </DrawerContentScrollView>
   )
 }
